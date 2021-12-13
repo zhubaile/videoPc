@@ -1,0 +1,3 @@
+<view class='children-content' style="height:calc(100% - 112.5px)">
+  <slot style="height:100%" name="{{name}}"/>
+</view>
